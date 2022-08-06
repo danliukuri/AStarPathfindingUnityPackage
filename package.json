@@ -1,0 +1,17 @@
+{
+  "name": "com.silent-games-studio.a-star-pathfinding",
+  "version": "1.0.0",
+  "displayName": "A-star Pathfinding",
+  "description": "A-star pathfinding algorithm library.",
+  "unity": "2020.3",
+  "keywords": [
+    "library",
+    "utility",
+    "astar",
+    "a-atar",
+    "a*",
+    "algorithm",
+    "pathfinding"
+  ],
+  "type": "library"
+}

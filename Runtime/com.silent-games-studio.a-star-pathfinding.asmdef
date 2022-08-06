@@ -1,0 +1,14 @@
+{
+    "name": "com.silent-games-studio.a-star-pathfinding",
+    "rootNamespace": "AStarPathfinding",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}
